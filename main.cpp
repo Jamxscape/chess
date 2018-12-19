@@ -11,6 +11,7 @@
  定义三种状态，为O X 和space
  默认用户为O 电脑输入为X 空格状态下为space
  space ASCLL码为32
+ 已经上传至GItHub
  */
 #include <iostream>
 #include <string>
